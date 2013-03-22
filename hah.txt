@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 the modifjdijfidjfidfjidjfidff
+=======
+The modified part here,the first line
+>>>>>>> origin/haha
